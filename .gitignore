@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Web.API/bin/Debug/net5.0
+/Application/bin/Debug/net5.0
+/Application/obj
+/Infrastructure.UnitTests/bin/Debug/net5.0
+/Infrastructure.UnitTests/obj
+/Web.API/obj
+/Web.API.UnitTests/bin/Debug/net5.0
+/Web.API.UnitTests/obj
+/Domain/bin/Debug/net5.0
+/.vs/HotelManagement/DesignTimeBuild
+/.vs/HotelManagement/v16/TestStore/0
+/Infrastructure/bin/Debug/net5.0
+/Infrastructure/obj
+/Domain/obj
